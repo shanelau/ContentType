@@ -1,0 +1,25 @@
+{
+  "name": "content-type-mime",
+  "version": "1.0.0",
+  "description": "get file document type",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shanelau/ContentType.git"
+  },
+  "keywords": [
+    "file",
+    "contentType",
+    "type",
+    "document"
+  ],
+  "author": "Liu Xing <shanelau1021@gmail.com> (http://kissliux.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanelau/ContentType/issues"
+  },
+  "homepage": "https://github.com/shanelau/ContentType"
+}
