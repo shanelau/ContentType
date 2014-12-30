@@ -1,6 +1,6 @@
 {
   "name": "content-type-mime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get file document type",
   "main": "lib/index.js",
   "scripts": {

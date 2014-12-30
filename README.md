@@ -1,7 +1,7 @@
 ContentType
 ===========
 ###简介
-Get File document content type
+Get the MIME content-type for a filename.
 文件名和其文档类型的对应规则，每个文件都有不一样的文件后缀.txt ,  .html , .zip他们的文档类型是不一样的。
 
 ##Example
