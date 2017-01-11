@@ -1,6 +1,6 @@
 {
   "name": "content-type-mime",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "get file document type",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,10 @@
     "type",
     "document"
   ],
-  "author": "Liu Xing <shanelau1021@gmail.com> (http://kissliux.github.io)",
+  "contributors": [
+
+  ],
+  "author": "ShaneLau <shanelau1021@gmail.com> (http://shanelau.github.io)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shanelau/ContentType/issues"
